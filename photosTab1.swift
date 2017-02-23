@@ -11,8 +11,6 @@ import Photos
 
 class photosTab1: UIViewController, UICollectionViewDelegateFlowLayout, UICollectionViewDataSource {
     var collectionView: UICollectionView!
-    //@IBOutlet var mycollect: UICollectionView!
-   // @IBOutlet weak var collect: UICollectionView!
     
     var extraview:UIView = UIView()
     
